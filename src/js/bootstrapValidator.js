@@ -1,10 +1,11 @@
 /**
- * BootstrapValidator (http://bootstrapvalidator.com)
- * The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3
+ * OpenValidator (https://github.com/OpenValidator/openvalidator)
  *
- * @author      https://twitter.com/nghuuphuoc
- * @copyright   (c) 2013 - 2014 Nguyen Huu Phuoc
- * @license     MIT
+ * Original work Copyright (c) 2013 - 2014 Nguyen Huu Phuoc
+ * Modified work Copyright (c) 2015 The OpenValidator Developers.
+ *
+ * See the LICENSE.md file at the top-level directory of this distribution and at
+ * https://github.com/OpenValidator/openvalidator/blob/master/LICENSE.md.
  */
 
 if (typeof jQuery === 'undefined') {
