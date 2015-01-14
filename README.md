@@ -29,3 +29,8 @@ Look at the [changelog](CHANGELOG.md).
 The original BootstrapValidator plugin was written by [Nguyen Huu Phuoc](http://github.com/nghuuphuoc).
 
 Big thanks to the [contributors](CONTRIBUTORS.md).
+
+## License
+
+The project is licensed under the MIT license. See the [LICENSE](LICENSE.md)
+file for details.
