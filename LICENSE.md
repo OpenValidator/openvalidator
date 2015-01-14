@@ -2,6 +2,9 @@ The MIT License (MIT)
 
 Original work Copyright (c) 2013 - 2014 Nguyen Huu Phuoc
 
+Modified work Copyright (c) 2015 The OpenValidator Developers.  
+See the [CONTRIBUTORS][contributors] file and the [commit log][commitlog] for details.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
 the Software without restriction, including without limitation the rights to
@@ -18,3 +21,6 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+  [contributors]: (https://github.com/OpenValidator/openvalidator/blob/master/CONTRIBUTORS.md)
+  [commitlog]: https://github.com/OpenValidator/openvalidator/commits/master
