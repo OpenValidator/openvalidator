@@ -1,5 +1,5 @@
 {
-    "name": "bootstrapvalidator",
+    "name": "openvalidator",
     "description": "The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3",
     "version": "0.5.2",
     "ignore": [
@@ -17,7 +17,7 @@
         "dist/js/bootstrapValidator.js"
     ],
     "license": "MIT",
-    "keywords": ["jQuery", "plugin", "validate", "validator", "form", "Bootstrap"],
+    "keywords": ["jquery-plugin", "jQuery", "plugin", "validate", "validator", "form", "Bootstrap"],
     "authors": [
         { "name": "The OpenValidator Developers", "homepage": "https://github.com/OpenValidator/openvalidator" }
     ],
