@@ -19,12 +19,12 @@
     "license": "MIT",
     "keywords": ["jQuery", "plugin", "validate", "validator", "form", "Bootstrap"],
     "authors": [
-        { "name": "Nguyen Huu Phuoc", "email": "phuoc@huuphuoc.me"," homepage": "https://twitter.com/nghuuphuoc" }
+        { "name": "The OpenValidator Developers", "homepage": "https://github.com/OpenValidator/openvalidator" }
     ],
-    "homepage": "http://bootstrapvalidator.com",
+    "homepage": "https://github.com/OpenValidator/openvalidator",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nghuuphuoc/bootstrapvalidator.git"
+        "url": "https://github.com/OpenValidator/openvalidator.git"
     },
     "dependencies": {
         "jquery": ">= 1.9.0",

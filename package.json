@@ -4,20 +4,15 @@
     "description": "The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3",
     "keywords": ["jQuery", "plugin", "validate", "validator", "form", "Bootstrap"],
     "author": {
-        "name": "Nguyen Huu Phuoc",
-        "email": "phuoc@huuphuoc.me",
-        "url": "https://twitter.com/nghuuphuoc"
+        "name": "The OpenValidator Developers",
+        "url": "https://github.com/OpenValidator/openvalidator/blob/master/CONTRIBUTORS.md"
     },
-    "homepage": "http://bootstrapvalidator.com",
-    "bugs": {
-        "url": "https://github.com/nghuuphuoc/bootstrapvalidator/issues",
-        "email": "phuoc@huuphuoc.me"
-    },
+    "bugs": { "url": "https://github.com/OpenValidator/openvalidator/issues" },
     "license": "MIT",
     "main": "./dist/js/bootstrapValidator.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nghuuphuoc/bootstrapvalidator.git"
+        "url": "https://github.com/OpenValidator/openvalidator.git"
     },
     "devDependencies": {
         "grunt": "latest",
