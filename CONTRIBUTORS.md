@@ -1,7 +1,8 @@
 # Contributors
 
-I would like to give big thanks to the following contributors:
+The following people have contributed to the OpenValidator library:
 
+* [@nghuuphuoc](https://github.com/nghuuphuoc)
 * [@abuzer](https://github.com/abuzer)
 * [@aca02djr](https://github.com/aca02djr)
 * [@adgrafik](https://github.com/adgrafik)
@@ -92,4 +93,3 @@ I would like to give big thanks to the following contributors:
 * [@ulsa](https://github.com/ulsa)
 * [@vadail](https://github.com/vadail)
 * [@vaz](https://github.com/vaz)
-* ... might be you! Let's [fork](https://github.com/nghuuphuoc/bootstrapvalidator/fork) and pull a request!
